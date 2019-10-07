@@ -1,0 +1,2 @@
+1.Schritt: Datei entpacken(ZIP Datei)
+2.Schritt: index.html öffnen
